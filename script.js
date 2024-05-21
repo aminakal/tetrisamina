@@ -195,7 +195,7 @@ function placeTetromino() {
 
   tetromino = getNextTetromino();
 }
-
+//
   // показываем надпись Game Over
   function showGameOver() {
     // прекращаем всю анимацию игры
