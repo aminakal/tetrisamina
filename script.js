@@ -157,7 +157,7 @@ function isValidMove(matrix, cellRow, cellCol) {
   
   return true;
 }
-
+//
 
 function placeTetromino() {
  
